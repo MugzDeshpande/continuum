@@ -1,0 +1,4 @@
+c:\users\mugdha.deshpande\documents\visual studio 2010\Projects\GitTestConsoleApp\GitTestConsoleApp\bin\Debug\GitTestConsoleApp.exe
+c:\users\mugdha.deshpande\documents\visual studio 2010\Projects\GitTestConsoleApp\GitTestConsoleApp\bin\Debug\GitTestConsoleApp.pdb
+c:\users\mugdha.deshpande\documents\visual studio 2010\Projects\GitTestConsoleApp\GitTestConsoleApp\obj\x86\Debug\GitTestConsoleApp.exe
+c:\users\mugdha.deshpande\documents\visual studio 2010\Projects\GitTestConsoleApp\GitTestConsoleApp\obj\x86\Debug\GitTestConsoleApp.pdb
